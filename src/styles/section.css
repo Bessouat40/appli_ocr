@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    text-align: center;
+    background-color: rgb(209, 209, 221);
+    color: rgb(70, 71, 73);
+    border-color: rgb(150, 148, 148);
+    border-style: dotted;
+    background-color: rgb(240, 240, 240);
+    color: #929191;
+}
+
+.hidden-text {
+    justify-content: center;
+}
+
+.text {
+    /*justify-content: center;*/
+    text-align: center;
+}
